@@ -4,4 +4,4 @@ A simple Android app built with Kotlin that demonstrates button click events and
 
 ## Screenshots
 
-<img src="screenshots/ss_main_activity.png" width="300">
+<img src="ScreenShot Hasil/hasil.png" width="300">
